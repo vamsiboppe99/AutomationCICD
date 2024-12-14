@@ -16,7 +16,7 @@ public class StandAloneTest {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		// New comments are added
+		// New comments are added again
 		String productName = "ZARA COAT 3";
 		
 		System.setProperty("webdriver.chrome.driver", "/Users/vamsiboppe/Documents/chromedriver");	
